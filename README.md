@@ -1,1 +1,1 @@
-I ma a software engineer
+I am a software engineer
